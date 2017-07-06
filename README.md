@@ -24,3 +24,13 @@
   * isr 中断服务函数
 
 # 3 展示
+
+小车整体效果
+
+![](https://github.com/zhang555/smart_car/blob/master/1.jpg)
+
+
+获奖证书
+
+
+![](https://github.com/zhang555/smart_car/blob/master/2.jpg)
